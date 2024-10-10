@@ -6,7 +6,7 @@ import turtle as trtl
 
 #-----game configuration----
 score = 0
-time_left = 5
+time_left = 3
 time_up = False
 counter_interval = 1000
 score_font = "Audiowide", 20, "normal"
@@ -45,9 +45,10 @@ def target_clicked(x, y):
     if time_up == False:
         change_pos()
         update_score()
-        time_left = 5
+        time_left = 3
         timekeeper.clear()
         timekeeper.write(time_left, font=score_font)
+        time_left -= 1
 
 #Function to change the target's position
 def change_pos():
