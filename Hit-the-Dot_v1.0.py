@@ -1,6 +1,5 @@
 # a121_catch_a_turtle.py
 #-----import statements-----
-import time
 import random
 import turtle as trtl
 
