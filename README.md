@@ -3,5 +3,6 @@ This is just a little game I made in one of my computer science classes a while 
 This was not entirely created by me. The teaching program I was using provided a LOT of the code for the leaderboard. If i need to include anything else to avoid piracy, please tell me.
 
 TerminL link
+(TerminL may not be public yet but I plan on releasing the first version soon.)
 
 https://github.com/CodeKnight181/TerminL
